@@ -1,0 +1,11 @@
+Data Structure-----
+    Primitive Data Structure(Built in data Structure)
+        int, float, char, string, boolean
+    Non Primitive Data Structure(User defined data Structure)
+        Linear Data Structure
+            Static Data Structure
+                Array
+            Dynmic Data Structure
+                Linked Data Structure, Stack, Queue
+        Non Linear Data Structure
+            Tree, Graph

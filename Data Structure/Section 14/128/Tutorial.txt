@@ -1,0 +1,4 @@
+Insertion of Element in the linked list
+-At the begininning of linked list (Best Case)
+-After a node in the middle of linked list (Inbetween)
+-At the end of linked list (Worst case)

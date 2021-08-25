@@ -1,0 +1,9 @@
+----------Difference between Linked List and Array------------
+-Element of linked list are independent objects
+-In array we can only delete the value not the cell
+-Linked list is variable in size while arrays are fixed in size
+-Insertion and removal in linked are very efficient
+-In array while Insertion and removal we need to shift many values
+-Array are great when it comes to finding items due to indexing O(1)
+-In case of linked list if we want to search for any Element we need to loop over each Element O(N)
+-Random access- accessing an Element is very efficient in arrays
