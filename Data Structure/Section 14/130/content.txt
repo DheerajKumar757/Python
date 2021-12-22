@@ -1,3 +1,0 @@
-main1 : tutorial
-main2 : analysis of tutorial
-main3 : experiment

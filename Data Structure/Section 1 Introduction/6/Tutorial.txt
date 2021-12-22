@@ -1,7 +1,0 @@
-Types of Algorithm:
-    Simple Recursive Algorithm
-    Divide and Conquer Algorithm
-    Dynmic Programming Algorithm
-    Greedy Algorithm
-    Brute force Algorithm
-    Randomized Algorithm

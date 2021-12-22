@@ -1,7 +1,0 @@
-Input --> Processing --> Output
-Processing involves the use of data Structure and Algorithm
-
-In a library 
-- books are data
-- arranging them are data Structure
-- and at the end finding a book is Algorithm

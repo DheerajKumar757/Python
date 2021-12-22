@@ -1,3 +1,0 @@
-Algorithm - set of steps to accomplish a task
-- set of rules for a computer program to accomplish a task
-- Correctness and Efficiency are good parameter for Algorithm

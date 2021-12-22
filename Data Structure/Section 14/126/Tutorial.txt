@@ -1,1 +1,0 @@
-Memory are ranomly allocated for each node of linked list and then they are linked.
