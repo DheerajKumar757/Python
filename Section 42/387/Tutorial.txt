@@ -1,0 +1,1 @@
+Common Divide and Conquer algorithm
